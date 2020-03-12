@@ -1,7 +1,7 @@
 import os
 import tempfile
 
-TMP_DIR = os.path.join(tempfile.gettempdir(), 'tmp_bleu')
+TMP_DIR = os.path.join(tempfile.gettempdir(), 'tmp_bleu_sneha')
 
 
 def download_scripts(folder=TMP_DIR):
